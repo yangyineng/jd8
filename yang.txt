@@ -1,0 +1,4 @@
+虚拟机启动：ifconfig
+Xshell6 连接 用户名root 密码root 
+nexus admin admin123
+
